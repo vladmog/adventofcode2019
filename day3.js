@@ -194,3 +194,6 @@ for (let i = 0; i < wire1PlotArr.length; i++){
 }
 
 console.log("Manhattan distance: ", shortestDistance)
+
+
+
